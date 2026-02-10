@@ -199,8 +199,8 @@ local Library = {
     Scheme = {
         BackgroundColor = Color3.fromRGB(2, 1, 30),
         MainColor = Color3.fromRGB(2, 0, 31),
-        AccentColor = Color3.fromRGB(2, 0, 94),
-        OutlineColor = Color3.fromRGB(0, 0, 0),
+        AccentColor = Color3.fromRGB(0, 255, 247),
+        OutlineColor = Color3.fromRGB(21, 53, 58),
         FontColor = Color3.new(1, 1, 1),
         Font = Font.fromEnum(Enum.Font.Gotham),
 
